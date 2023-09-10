@@ -5,7 +5,7 @@ import './App.css';
 import ResponsiveRow from './component/activeusers';
 import Feature from './component/features';
 import Control from './component/control';
-import playStore from './component/download';
+
 
 
 function App() {
